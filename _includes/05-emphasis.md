@@ -1,6 +1,6 @@
 # Skills
 
-Below is a list of my techniccal skills:
+Below is a _list_ of my **technical skills**:
 
 ## Programming Languages
 - Ruby
